@@ -1,0 +1,14 @@
+ {
+      
+        "subcategory": [
+            {
+                "id":1,
+                "subcategoryname": "abc"
+            },
+             {
+                "id":2,
+                "subcategoryname": "plr"
+            }
+            
+        ]
+    }
